@@ -16,7 +16,7 @@ A simple **Student Management System** developed in **C++** that stores student 
 - C++
 - File Handling (fstream)
 - Object-Oriented Programming
-- STL (where applicable)
+- STL 
 
 ## Project Structure
 
@@ -29,7 +29,6 @@ student-management-system/
 └── other source/header files
 ```
 
-> *The exact file names may vary depending on your implementation.*
 
 ##  How to Run
 
@@ -46,7 +45,7 @@ git clone https://github.com/harshita07agr-source/student-management-system.git
 Example using g++:
 
 ```bash
-g++ main.cpp -o student
+g++ student.cpp -o student
 ```
 
 4. Run the executable.
@@ -93,3 +92,9 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork the 
 ## License
 
 This project is intended for educational purposes.
+
+## Author
+
+**Harshita Agrawal**
+
+- GitHub: https://github.com/harshita07agr-source
