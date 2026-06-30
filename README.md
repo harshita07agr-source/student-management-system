@@ -86,10 +86,10 @@ This project helped me understand:
 - CRUD operations (Create, Read, Update, Delete)
 - Organizing a console-based application
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
 
-## 📄 License
+## License
 
 This project is intended for educational purposes.
