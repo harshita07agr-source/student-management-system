@@ -1,0 +1,10 @@
+101 Aman 8.5 CSE 3
+102 Priya 9.1 IT 4
+103 Rohit 7.8 ECE 2
+104 Neha 8.9 ME 5
+105 Arjun 7.5 CE 3
+106 Simran 9.3 CSE 6
+107 Karan 8.1 EEE 4
+109 Rahul 7.9 ME 1
+110 Pooja 9 CSE 7
+108 Pooja 8.6 M&C 3
